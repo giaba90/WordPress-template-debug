@@ -1,2 +1,2 @@
 # WordPress-template-debug
-shows the template used by the current page
+Copy and paste php code into your functions.php file 
